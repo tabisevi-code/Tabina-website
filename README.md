@@ -18,7 +18,11 @@ Design Notes
 - **Accessibility:** Meaningful `alt` text on images; readable contrast; simple language.
 
 Screenshots
-
+![home page](images/screenshot1.png)
+![home page](images/screenshot1.5.png)
+![understanding page](images/screenshot2.png)
+![understanding page](images/screenshot2.5.png)
+![reflection page](images/screenshot3.png)
 
 Credits
 - intro photo : https://www.pexels.com/photo/woman-sitting-on-gray-rock-near-body-of-water-185801/
