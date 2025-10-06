@@ -1,8 +1,7 @@
 # Mental Health Matters — Breaking the Stigma
 
 **Access:**  
-- (Choose one) Internal course hosting link: `<your-internal-link-here>`  
-- OR External public link: `https://<your-username>.github.io/mental-health-website/`
+- https://tabisevi-code.github.io/Tabina-website/index.html
 
 ## Overview & Audience
 This site explores the stigma around mental health through a personal story and a short, readable guide. The audience is students and young adults who may not know how to talk about depression and want language that supports rather than stigmatizes.
